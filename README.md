@@ -33,6 +33,6 @@ We have 6 variables with datatype `object`
 
 ## Summary of Findings
 
-> User Type plays a critical role in Trip Durations. Also, one interesting statistic that came to light was even though Subscribers count is very high as compared to Customers, they have a low Trip Duration count as compared to Customers.
-> User Gender and Trip Duration (Duration Sec) also has a similar relationship where number of Females & Other gender have higher Trip Duration as compared to the Male gender even though males has a significantly higher count.
-> Users between ages 20-45 are more inclined towards using bikes.
+- User Type plays a critical role in Trip Durations. Also, one interesting statistic that came to light was even though Subscribers count is very high as compared to Customers, they have a low Trip Duration count as compared to Customers.
+- User Gender and Trip Duration (Duration Sec) also has a similar relationship where number of Females & Other gender have higher Trip Duration as compared to the Male gender even though males has a significantly higher count.
+- Users between ages 20-45 are more inclined towards using bikes.
